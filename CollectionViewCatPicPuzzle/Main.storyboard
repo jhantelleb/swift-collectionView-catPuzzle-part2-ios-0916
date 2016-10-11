@@ -36,6 +36,7 @@
                         </connections>
                     </collectionView>
                     <connections>
+                        <outlet property="collectionViewFlowLayout" destination="iah-q5-Wgs" id="cRU-j4-8dg"/>
                         <segue destination="Bs9-KA-x0O" kind="presentation" identifier="solvedSegue" id="4fG-i7-l4Q"/>
                     </connections>
                 </collectionViewController>
